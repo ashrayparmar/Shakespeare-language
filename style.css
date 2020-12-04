@@ -1,0 +1,7 @@
+#output {
+  border: 1px solid black;
+  height: 10vh;
+  max-width: 50%;
+  padding: 1rem 1rem;
+  margin: auto;
+}
